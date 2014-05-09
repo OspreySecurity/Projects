@@ -1,0 +1,3 @@
+Crawler:
+
+  Crawler downloads websites from a domain, scans each webpage and ranks the pages based on security issues, broken links, and other fields.
