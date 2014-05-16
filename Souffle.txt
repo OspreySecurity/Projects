@@ -4,3 +4,18 @@ into a single location. The program will manage the location of each item
 uploaded, and to the user everything will appear to be in the same location
 (i.e. a single drive). It will connect via apis to each cloud server, and then 
 store the oauth keys to be used later.
+
+Priority 1 (Must have):
+1. Must have simultanious access to multiple cloud accounts
+2. Must allow upload and download of all file types
+
+Priority 2 (Should have):
+1. Online based (not desktop app)
+2. Accessable anywhere
+3. Must not force the user to sign in to accounts every time
+4. cache file names and locations locally for quick retrival
+
+Priority 3 (Stretch goals)
+1. Sort current files between the drives
+2. Be visually appealing and easy to use
+3. Drag and drop
