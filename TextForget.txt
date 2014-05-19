@@ -1,4 +1,4 @@
-Text Forget is an Andriod app that allows users to set a timer to send
+Text Forget is an Android app that allows users to set a timer to send
 texts to their friends and loved ones. It asks the user if they want to 
 send the text, and sends but sends it automatically at 5:00pm. 
 
