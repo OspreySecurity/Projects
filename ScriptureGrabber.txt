@@ -1,1 +1,3 @@
-The Scripture Grabber is designed to grab any scripture from lds.org and put it in the clip board to be pasted to whatever the user wants.
+The Scripture Grabber is designed to grab any scripture from
+lds.org and put it in the clip board to be pasted to whatever
+ the user wants.
