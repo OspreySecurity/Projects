@@ -1,3 +1,20 @@
-Text Forget is an IPhone app that allows users to set a timer to send
+Text Forget is an Andriod app that allows users to set a timer to send
 texts to their friends and loved ones. It asks the user if they want to 
 send the text, and sends but sends it automatically at 5:00pm. 
+
+
+Priority 1 (Must have):
+Text the user on the day set by the user
+Program to the Android interface, in Java
+Allow the user to set multiple dates
+
+Priority 2 (Should have):
+Notify the user after the text was sent
+Use the same number of the users phone (i.e. it comes from the user)
+Allow the user to use a calendar to set date
+Store data locally in database
+
+Priority 3 (Stretch goals):
+Be visually appealing and easy to use
+Notify the user before the text is sent
+Integrate with Google Calendar 
