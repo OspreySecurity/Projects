@@ -3,7 +3,7 @@ Crawler:
   Crawler downloads websites from a domain, scans each webpage and ranks the pages 
   based on security issues, broken links, and other fields.
 
--[] build database
--[] convert report.printReport to write to the data base
--[] convert URLhandler to read from the database
--[] convert Spider to write to the database
+-[x] build database
+-[x] convert report.printReport to write to the data base
+-[x] convert URLhandler to read from the database
+-[x] convert Spider to write to the database
